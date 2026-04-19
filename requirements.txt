@@ -1,0 +1,6 @@
+numpy==2.4.4
+openai==2.32.0
+streamlit==1.56.0
+python-docx
+tempfile
+
